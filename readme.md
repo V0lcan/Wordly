@@ -1,7 +1,17 @@
-<h1>Wordly v0.1</h1>
+# Wordly v0.1
 Wordly is a python script that created wordlists from user arguments.
 
-Usage:
+---
+
+#### Usage:
 ```bash
-python3 wordly.py &lt;min-letters&gt; &lt;max-letters&gt; &lt;letters&gt; &lt;output-file&gt;
+python3 wordly.py <min-letters> <max-letters> <letters> <output-file>
 ```
+or
+```bash
+python3 wordly.py -h
+```
+for help.
+
+> [!NOTE]
+> This script is a bit of a mess at the moment.
