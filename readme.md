@@ -58,7 +58,7 @@ python3 wordly.py 4 6 abcde output.txt
 
 ---
 
-> [!NOTICE]
+> [!NOTE]
 > Wordly is in early development and may change significantly in future updates. If you need a stable and feature-rich wordlist generator, consider using [Crunch](https://www.kali.org/tools/crunch/). This project aims to replicate Crunch in Python as a learning exercise.
 
 > [!WARNING] 
