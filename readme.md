@@ -1,6 +1,6 @@
 # Wordly v0.1
 
-Wordly is a Python script designed to generate custom wordlists based on user-defined criteria. Whether you're working on word games, puzzles, or need a tailored list of words for testing purposes, Wordly provides a flexible and straightforward solution.
+ Wordly is a Python script designed to generate custom wordlists for cybersecurity and penetration testing purposes. Whether you're doing password audits, brute-force attacks or need home-made wordlists for security assessments, Wordly can create wordlists based on your specific requirements.
 
 ---
 
